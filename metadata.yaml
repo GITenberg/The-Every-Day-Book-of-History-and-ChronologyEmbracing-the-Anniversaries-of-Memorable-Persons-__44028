@@ -1,0 +1,30 @@
+_repo: The-Every-Day-Book-of-History-and-ChronologyEmbracing-the-Anniversaries-of-Memorable-Persons-__44028
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44028-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Munsell, Joel
+    birthdate: 1808
+    deathdate: 1880
+    gutenberg_agent_id: '42528'
+    url: http://www.gutenberg.org/2009/agents/42528
+description: ''
+gutenberg_issued: '2013-10-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44028'
+  lccn: '03006174'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D'
+- !lcsh 'Chronology, Historical'
+title: 'The Every Day Book of History and Chronology
+
+  Embracing the Anniversaries of Memorable Persons and Events in Every Period and
+  State of the World, from the Creation to the Present Time'
+url: http://www.gutenberg.org/ebooks/44028
